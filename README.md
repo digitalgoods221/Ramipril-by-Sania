@@ -42,14 +42,7 @@
   <a href="https://umt.edu.pk" target="_blank">
     <img src="https://umt.edu.pk/images/logo.png" alt="UMT Logo" class="logo">
   </a>
-
-  <h1>Biopharmaceutics Assignment</h1>
-  <h2>Submitted To:</h2>
-  <p>Sir Maaz Munir</p>
-  <h2>Submitted By:</h2>
-  <p>Toqeer Ameer Hussain | F2021437082</p>
-
-  <h2>Ramipril - Drug Monograph</h2>
+ <h2>Ramipril - Drug Monograph</h2>
 
   <h3>Introduction</h3>
   <p>Ramipril is an ACE inhibitor used for the treatment of hypertension and reduction of cardiovascular mortality following myocardial infarction in hemodynamically stable patients.</p>
